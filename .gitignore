@@ -27,3 +27,5 @@
 **/_vimtags
 _build/
 RTE/
+pca10040/s132/ses/Output/
+pca10040/s132/ses/image_transfer_demo_pca10040_s132_Debug.jlink
